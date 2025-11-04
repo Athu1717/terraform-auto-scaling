@@ -1,6 +1,6 @@
 variable "vpc_id" {
     type = string
-    default = [ "vpc-040aa66ace8b32bea" ]
+    default =  "vpc-040aa66ace8b32bea" 
   
 }
 
